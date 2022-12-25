@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>JenkinsTest</groupId>
-  <artifactId>JenkinsTest[F</artifactId>
+  <artifactId>JenkinsTest</artifactId>
   <version>JenkinsTest</version>
 
-  <name>JenkinsTest[F</name>
+  <name>JenkinsTest</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
