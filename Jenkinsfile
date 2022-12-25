@@ -11,7 +11,7 @@ withMaven(globalMavenSettingsConfig: '--- Use system default settings or file pa
       echo '===================='
       sh 'mvn --v'
       echo '===================='
-      sh 'mvn clean install'    
+      sh 'mvn clean install -s mvn-settings.xml'    
 }
     }
   } 
