@@ -1,0 +1,5 @@
+server:
+  port: 8803
+spring:
+  application:
+    name: third_service

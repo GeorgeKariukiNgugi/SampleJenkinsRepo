@@ -1,0 +1,5 @@
+server:
+  port: 8802
+spring:
+  application:
+    name: second_service
