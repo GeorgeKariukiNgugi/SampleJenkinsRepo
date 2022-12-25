@@ -11,7 +11,7 @@ withMaven(jdk: 'Java17', maven: 'Maven 3') {
       echo '===================='
       sh 'mvn --v'
       echo '===================='
-      sh 'mvn clean install -s mvn-settings.xml'    
+      sh 'mvn clean install'    
 }
     }
   } 
